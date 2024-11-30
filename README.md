@@ -12,7 +12,7 @@ This repository contains a script that allows you to run Nmap scans using SOCKS5
 ## Usage
 
 1. Clone the repository.
-2. Ensure you have a valid `socks55.txt` file with working SOCKS5 proxies.
+2. Ensure you have a valid `socks5.txt` file with working SOCKS5 proxies.
 3. Modify the script as needed.
 4. Run the script with:
 
