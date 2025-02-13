@@ -1,5 +1,5 @@
 # Automated Approach to Running Nmap Scans Through Proxies
-# Nmap Proxy Chain Script
+## Nmap Proxy Chain Script
 
 This repository contains a script that allows you to run Nmap scans using SOCKS5 proxies, with support for static, dynamic (Tor), and chained proxy methods. The script integrates with ProxyChains for routing network traffic through multiple proxies.
 
